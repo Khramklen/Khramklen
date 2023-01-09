@@ -21,4 +21,4 @@
 
 <p><img align="left" width="445" src="https://github-readme-stats.vercel.app/api/top-langs?username=khramklen&show_icons=true&locale=en&layout=compact" alt="khramklen" /></p>
 
-<p>&nbsp;<img align="right"  width="377"src="https://github-readme-stats.vercel.app/api?username=khramklen&show_icons=true&locale=en" alt="khramklen" /></p>
+<p>&nbsp;<img align="left"  width="377"src="https://github-readme-stats.vercel.app/api?username=khramklen&show_icons=true&locale=en" alt="khramklen" /></p>
