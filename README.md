@@ -1,7 +1,7 @@
 ![MasterHead ](https://camo.githubusercontent.com/17d80afee9dd9df1c590ad8d5a71f0f09f6fde2e46f855f573d40d70a4bfaeef/68747470733a2f2f7777772e7361666572736f63696574792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4769662d616e696d6174696f6e2d68656c6c6f2e676966)
 <h1 align="center">Hi 👋, I'm Elena Khramkova</h1>
 <h3 align="center">Junior JS Full Stack In Open Space</h3>
-<img align="right" alt="Coding" width="250" alt="hypnotoad" src="https://itproger.com/img/news/1611851646.jpg"/>
+<img align="right" alt="Coding" width="200" alt="hypnotoad" src="https://itproger.com/img/news/1611851646.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khramklen&label=Profile%20views&color=0e75b6&style=flat" alt="khramklen" /> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JS,React Native,Node.js**
