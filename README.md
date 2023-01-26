@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="250" alt="hypnotoad" src="https://itproger.com/img/news/1611851646.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khramklen&label=Profile%20views&color=0e75b6&style=flat" alt="khramklen" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JS,React Native,Node.js**
+- 🌱 Technologies: **HTML,CSS,JS,React,Node.js**
 
-- 💬 Ask me about **HTML,CSS,JS,React Native,Node.js,cartoons and chilli**
+- 💬 Ask me about **HTML,CSS,JS,React,Node.js,cartoons and chilli**
 
 - 📫 How to reach me **khramklen@gmail.com**
 
